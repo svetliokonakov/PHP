@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Afghanistan",
+    "continent": "Asia",
+    "climate_region": "Arid",
+    "average_temperatures": {
+      "winter": "3°C",
+      "spring": "15°C",
+      "summer": "25°C",
+      "autumn": "12°C"
+    }
+  },
+  {
+    "name": "Algeria",
+    "continent": "Africa",
+    "climate_region": "Desert",
+    "average_temperatures": {
+      "winter": "12°C",
+      "spring": "22°C",
+      "summer": "30°C",
+      "autumn": "20°C"
+    }
+  },
+  {
+    "name": "Argentina",
+    "continent": "South America",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "10°C",
+      "spring": "18°C",
+      "summer": "25°C",
+      "autumn": "15°C"
+    }
+  },
+  {
+    "name": "Australia",
+    "continent": "Australia",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "22°C",
+      "summer": "30°C",
+      "autumn": "18°C"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "continent": "Asia",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "20°C",
+      "spring": "27°C",
+      "summer": "30°C",
+      "autumn": "25°C"
+    }
+  },
+  {
+    "name": "Brazil",
+    "continent": "South America",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "20°C",
+      "spring": "25°C",
+      "summer": "30°C",
+      "autumn": "27°C"
+    }
+  },
+  {
+    "name": "Canada",
+    "continent": "North America",
+    "climate_region": "Cold",
+    "average_temperatures": {
+      "winter": "-10°C",
+      "spring": "5°C",
+      "summer": "20°C",
+      "autumn": "10°C"
+    }
+  },
+  {
+    "name": "China",
+    "continent": "Asia",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "5°C",
+      "spring": "15°C",
+      "summer": "25°C",
+      "autumn": "15°C"
+    }
+  },
+  {
+    "name": "Egypt",
+    "continent": "Africa",
+    "climate_region": "Desert",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "25°C",
+      "summer": "35°C",
+      "autumn": "25°C"
+    }
+  },
+  {
+    "name": "France",
+    "continent": "Europe",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "5°C",
+      "spring": "15°C",
+      "summer": "25°C",
+      "autumn": "15°C"
+    }
+  },
+  {
+    "name": "Germany",
+    "continent": "Europe",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "0°C",
+      "spring": "10°C",
+      "summer": "20°C",
+      "autumn": "10°C"
+    }
+  },
+  {
+    "name": "India",
+    "continent": "Asia",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "25°C",
+      "summer": "30°C",
+      "autumn": "25°C"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "continent": "Asia",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "25°C",
+      "spring": "27°C",
+      "summer": "30°C",
+      "autumn": "27°C"
+    }
+  },
+  {
+    "name": "Italy",
+    "continent": "Europe",
+    "climate_region": "Mediterranean",
+    "average_temperatures": {
+      "winter": "10°C",
+      "spring": "18°C",
+      "summer": "25°C",
+      "autumn": "20°C"
+    }
+  },
+  {
+    "name": "Japan",
+    "continent": "Asia",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "5°C",
+      "spring": "15°C",
+      "summer": "25°C",
+      "autumn": "18°C"
+    }
+  },
+  {
+    "name": "Kenya",
+    "continent": "Africa",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "20°C",
+      "spring": "22°C",
+      "summer": "25°C",
+      "autumn": "22°C"
+    }
+  },
+  {
+    "name": "Mexico",
+    "continent": "North America",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "25°C",
+      "summer": "30°C",
+      "autumn": "25°C"
+    }
+  },
+  {
+    "name": "Morocco",
+    "continent": "Africa",
+    "climate_region": "Mediterranean",
+    "average_temperatures": {
+      "winter": "12°C",
+      "spring": "20°C",
+      "summer": "28°C",
+      "autumn": "22°C"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "continent": "Africa",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "25°C",
+      "spring": "27°C",
+      "summer": "30°C",
+      "autumn": "27°C"
+    }
+  },
+  {
+    "name": "Norway",
+    "continent": "Europe",
+    "climate_region": "Cold",
+    "average_temperatures": {
+      "winter": "-5°C",
+      "spring": "5°C",
+      "summer": "15°C",
+      "autumn": "5°C"
+    }
+  },
+  {
+    "name": "Pakistan",
+    "continent": "Asia",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "10°C",
+      "spring": "20°C",
+      "summer": "30°C",
+      "autumn": "20°C"
+    }
+  },
+  {
+    "name": "Peru",
+    "continent": "South America",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "20°C",
+      "summer": "25°C",
+      "autumn": "20°C"
+    }
+  },
+  {
+    "name": "Philippines",
+    "continent": "Asia",
+    "climate_region": "Tropical",
+    "average_temperatures": {
+      "winter": "25°C",
+      "spring": "27°C",
+      "summer": "30°C",
+      "autumn": "27°C"
+    }
+  },
+  {
+    "name": "Poland",
+    "continent": "Europe",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "0°C",
+      "spring": "10°C",
+      "summer": "20°C",
+      "autumn": "10°C"
+    }
+  },
+  {
+    "name": "Russia",
+    "continent": "Europe/Asia",
+    "climate_region": "Cold",
+    "average_temperatures": {
+      "winter": "-15°C",
+      "spring": "0°C",
+      "summer": "20°C",
+      "autumn": "5°C"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "continent": "Asia",
+    "climate_region": "Desert",
+    "average_temperatures": {
+      "winter": "15°C",
+      "spring": "30°C",
+      "summer": "40°C",
+      "autumn": "30°C"
+    }
+  },
+  {
+    "name": "South Africa",
+    "continent": "Africa",
+    "climate_region": "Varied",
+    "average_temperatures": {
+      "winter": "10°C",
+      "spring": "18°C",
+      "summer": "25°C",
+      "autumn": "20°C"
+    }
+  },
+  {
+    "name": "South Korea",
+    "continent": "Asia",
+    "climate_region": "Temperate",
+    "average_temperatures": {
+      "winter": "0°C",
+      "spring": "15°C",
+      "summer": "25°C",
+      "autumn": "15°C"
+    }
+  }
+]
